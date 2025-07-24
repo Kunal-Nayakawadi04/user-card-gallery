@@ -10,4 +10,4 @@ A responsive user card gallery built with HTML, CSS (Tailwind), and vanilla Java
 
 💡 No frameworks — just clean, functional frontend code.
 
-D:\Sheriyans_Coding_School\DOMManipulation\Real-Time Search Filter\index.html
+
