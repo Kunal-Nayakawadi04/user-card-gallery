@@ -1,4 +1,4 @@
-# js-become-dev
+# user-card-gallery
 A responsive user card gallery built with HTML, CSS (Tailwind), and vanilla JavaScript. It displays dynamically generated profile cards with images, names, and bios, all over a blurred background. Includes a real-time search input to filter users by name.
 
 🔹 Features:
