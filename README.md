@@ -9,3 +9,4 @@ A responsive user card gallery built with HTML, CSS (Tailwind), and vanilla Java
 - Blurred background effect using pure CSS
 
 💡 No frameworks — just clean, functional frontend code.
+
